@@ -27,3 +27,5 @@ v1.2  9/02/2022 1 fichier
 
 combien de commits ont été effectués sur « main » depuis la dernière version v1.2 .
  Il y'en a eu 5
+
+Je me suis rendu compte d'avoir louper l'étape de la création de la branch trigonométrie afin de regler le conflit . Je l'ai directement effectuer sur github
